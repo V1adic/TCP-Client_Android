@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Chat</string>
+    <string name="enter_massage">Введите сообщение</string>
+    <string name="send">Send</string>
+</resources>
